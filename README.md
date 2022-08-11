@@ -4,7 +4,7 @@
 - 🌱 Aprendendo Python.
 - 📫 Você pode entrar em contato comigo utilizando o Twitter> @davuddevjr
 - ⚡ Fun fact: Alguns amigos me chamam de Davud.
-- - 💬 Lista de Linguagens que quero aprender:
+- 💬 Lista de Linguagens que quero aprender:
   
   •Javascript
   
