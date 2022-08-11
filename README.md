@@ -6,15 +6,15 @@
 - ⚡ Fun fact: Alguns amigos me chamam de Davud.
 - 💬 Lista de Linguagens que quero aprender:
   
-  •Javascript
+  -Javascript
   
-  •Java
+  -Java
   
-  •PHP
+  -PHP
   
-  •Ruby
+  -Ruby
   
-  •Rails
+  -Rails
   ##
 <div> 
   <a href="https://instagram.com/Davu1d target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
