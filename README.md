@@ -4,7 +4,8 @@
 
 - 📫 Você pode entrar em contato comigo utilizando o Twitter> @davuddevjr
 
-- ⚡ Fun fact: Alguns amigos me chamam de Davud.
+- ⚡ Você é aquilo que você faz repetidamente, portanto seu sucesso é um hábito e não um ato.
+
 - 💬 Lista de Linguagens que quero aprender:
   
   -HTML5
