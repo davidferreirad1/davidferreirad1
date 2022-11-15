@@ -1,5 +1,9 @@
 ### Olá, Eu sou o David ferreira.
 
+- 🌆 Vivo na zona norte do Rio de janeiro.
+
+- 🐱‍🐉 Tenho 19 anos!
+
 - 🔭 Atualmente estou estudando HTML5, CSS3 e Javascript.
 
 - 📫 Você pode entrar em contato comigo utilizando o Email > daviddevjob@gmail.com
