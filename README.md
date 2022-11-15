@@ -1,12 +1,12 @@
 ### Olá, Eu sou o David ferreira.
 
-- 🔭 Atualmente estou estudando HTML5 e CSS3
+- 🔭 Atualmente estou estudando HTML5, CSS3 e Javascript.
 
-- 📫 Você pode entrar em contato comigo utilizando o Twitter> @davuddevjr
+- 📫 Você pode entrar em contato comigo utilizando o Email > daviddevjob@gmail.com
 
 - ⚡ Você é aquilo que você faz repetidamente, portanto seu sucesso é um hábito e não um ato.
 
-- 💬 Lista de Linguagens que quero aprender:
+- 💬 Lista de Linguagens que estou disposto a aprender:
   
   -HTML5
   
@@ -15,6 +15,10 @@
   -Javascript
   
   -Python
+  
+  -PHP
+  
+  -Java
   
   ##
 <div> 
